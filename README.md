@@ -1,1 +1,1 @@
-This is a clone of the blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+This is a clone of the blog built with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
